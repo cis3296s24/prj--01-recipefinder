@@ -1,6 +1,6 @@
-# Project name
+# Project 
 
-# Vision
+# How to Run
 
 # How to Install
 
